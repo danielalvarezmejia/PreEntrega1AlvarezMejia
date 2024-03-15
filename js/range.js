@@ -25,3 +25,5 @@ if (isNaN(resultA) || isNaN(resultB)) {
 }else {
   alert(`el rango entre ${resultA} y ${resultB} es ${contarRango(Number(resultA), Number(resultB))}`);
 };
+
+//terminado

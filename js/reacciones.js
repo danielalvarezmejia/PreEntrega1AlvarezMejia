@@ -25,3 +25,6 @@ if (isNaN(result)) {
 }else {
   alert(`tu tienes ${likes(result)} reacciones`);
 };
+
+
+// terminado
